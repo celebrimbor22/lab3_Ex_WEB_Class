@@ -1,0 +1,28 @@
+{
+  "name": "lab3_Ex_WEB_Class",
+  "version": "1.0.0",
+  "description": "Lab3 front and back",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celebrimbor22/lab3_Ex_WEB_Class.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celebrimbor22/lab3_Ex_WEB_Class/issues"
+  },
+  "homepage": "https://github.com/celebrimbor22/lab3_Ex_WEB_Class#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "nodemon": "^2.0.4",
+    "path": "^0.12.7"
+  }
+}
